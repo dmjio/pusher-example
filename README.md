@@ -6,7 +6,7 @@ This binary only works on OSX, since it was compiled on Darwin.
 ./main && open index.html
 ```
 
-Now open `index.html` in a Chrome, and hit the `Alt` + `Command` + `j` to bring up the developer console and see web socket notifications.
+Open `index.html` in Chrome. Press `Alt` + `Command` + `j` to bring up the developer console to see web socket notifications.
 
 If you're not on OSX, then install GHC and do:
 
