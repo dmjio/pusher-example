@@ -3,7 +3,7 @@ Pusher test
 This binary only works on OSX, since it was compiled on Darwin.
 
 ```bash
-./main && open index.html
+open index.html && ./main
 ```
 
 Open `index.html` in Chrome. Press `Alt` + `Command` + `j` to bring up the developer console to see web socket notifications.
